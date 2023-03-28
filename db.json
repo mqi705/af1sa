@@ -1,0 +1,39 @@
+{
+  "CC": {
+    "A1": {
+      "L": "",
+      "isT": false,
+      "isJ": false
+    },
+    "B2": {
+      "L": "",
+      "isT": false,
+      "isJ": false
+    },
+    "C3": {
+      "L": "",
+      "isT": true,
+      "isJ": false
+    },
+    "D4": {
+      "L": "",
+      "isT": false,
+      "isJ": false
+    },
+    "E5": {
+      "L": "",
+      "isT": false,
+      "isJ": false
+    },
+    "F6": {
+      "L": "",
+      "isT": false,
+      "isJ": false
+    },
+    "G7": {
+      "L": "",
+      "isT": false,
+      "isJ": false
+    }
+  }
+}
